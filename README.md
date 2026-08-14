@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,287 | 🐛 99 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,687 | 🐛 100 | 📅 2026-06-30
 
 </div>
 
@@ -40,7 +40,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 <summary>Previous</summary>
 <div markdown="1">
 
-* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,319 | 🐛 0 | 📅 2026-03-16!
+* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,320 | 🐛 0 | 📅 2026-03-16!
 
 * **`24.03.20`**  First pull request!
 
@@ -55,7 +55,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`RAL`** Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10629042) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sparolab/solid) ⭐ 201 | 🐛 0 | 🌐 Python | 📅 2026-08-11
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10629042) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sparolab/solid) ⭐ 204 | 🐛 0 | 🌐 Python | 📅 2026-08-11
 
   * **`Handcraft`** **`TIM`** OSK: A Novel LiDAR Occupancy Set Key-Based Place Recognition Method in Urban Environment
 
@@ -63,7 +63,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** Effectively Detecting Loop Closures using Point Cloud Density Maps 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) ⭐ 428 | 🐛 2 | 🌐 C++ | 📅 2026-07-20
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) ⭐ 428 | 🐛 2 | 🌐 C++ | 📅 2026-08-14
 
   * **`Handcraft`** **`TRO`** BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition 🔥
 
@@ -279,7 +279,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Single/Multi`** **`ITSC`** **`Livox-Horizon`** NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping 🚙
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2309.00962-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.00962) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/junzhang2016/NTU4DRadLM) ⭐ 187 | 🐛 16 | 📅 2024-03-22
+    [![arXiv](https://img.shields.io/badge/arXiv-2309.00962-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.00962) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/junzhang2016/NTU4DRadLM) ⭐ 188 | 🐛 16 | 📅 2024-03-22
 
   * **`Multi`** **`IROS-workshop`** **`Mid-70`** ConPR: Ongoing Construction Site Dataset for Place Recognition 🧔
 
@@ -317,7 +317,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Multi-Robot`** **`RAL`** **`VLP-16`** DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization 🤖
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/9662965) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) ⭐ 289 | 🐛 15 | 🌐 C++ | 📅 2024-10-04
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/9662965) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) ⭐ 290 | 🐛 15 | 🌐 C++ | 📅 2024-10-04
 
 * 2021
 
@@ -363,7 +363,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Multi-Robot SLAM`** **`TRO`** MR\_SLAM with RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2210.05984-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2210.05984) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MaverickPeter/MR_SLAM.git) ⭐ 365 | 🐛 8 | 🌐 C++ | 📅 2024-06-16
+    [![arXiv](https://img.shields.io/badge/arXiv-2210.05984-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2210.05984) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MaverickPeter/MR_SLAM.git) ⭐ 366 | 🐛 8 | 🌐 C++ | 📅 2024-06-16
 
   * **`Multi-Robot SLAM`** **`IEEE Sensors Journal`** DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm 🔥
 
@@ -381,7 +381,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Multi-Robot SLAM`** **`RAL`** DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/9662965) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) ⭐ 289 | 🐛 15 | 🌐 C++ | 📅 2024-10-04
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/9662965) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) ⭐ 290 | 🐛 15 | 🌐 C++ | 📅 2024-10-04
 
   * **`Mapping Framework`** **`ICRA`** LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping 🔥
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
