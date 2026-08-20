@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,727 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,135 | 🐛 105 | 📅 2026-08-18
 
 </div>
 
@@ -40,7 +40,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 <summary>Previous</summary>
 <div markdown="1">
 
-* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,323 | 🐛 0 | 📅 2026-03-16!
+* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,327 | 🐛 0 | 📅 2026-03-16!
 
 * **`24.03.20`**  First pull request!
 
@@ -71,7 +71,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`IROS`** NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2307.08221-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2307.08221) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SlamCabbage/NDTMC) ⭐ 225 | 🐛 0 | 🌐 C++ | 📅 2025-01-06
+    [![arXiv](https://img.shields.io/badge/arXiv-2307.08221-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2307.08221) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SlamCabbage/NDTMC) ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2025-01-06
 
   * **`Learning`** **`TIV`** RangePlace: A Hierarchical Range Image Transformer for LiDAR-Based Place Recognition
 
@@ -269,7 +269,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Multi`** **`RAL`** **`VLP-16`** **`Livox-Avia`** BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments 🤖
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2306.14137-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2306.14137) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/robot-pesg/BotanicGarden) ⭐ 303 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14
+    [![arXiv](https://img.shields.io/badge/arXiv-2306.14137-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2306.14137) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/robot-pesg/BotanicGarden) ⭐ 304 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14
 
 * 2023
 
@@ -385,7 +385,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Mapping Framework`** **`ICRA`** LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2107.07712-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2107.07712) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/lt-mapper) ⭐ 539 | 🐛 8 | 🌐 C++ | 📅 2025-02-18
+    [![arXiv](https://img.shields.io/badge/arXiv-2107.07712-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2107.07712) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/lt-mapper) ⭐ 540 | 🐛 8 | 🌐 C++ | 📅 2025-02-18
 
   * **`SLAM Framework`** **`ICEIC`** SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System 🔥
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
