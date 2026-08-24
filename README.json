@@ -1,7 +1,1038 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "2024",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Effectively Detecting Loop Closures using Point Cloud Density Maps 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 764533935,
+                "language": "C++",
+                "last_commit": "2026-08-14T14:26:38Z",
+                "owner": "PRBonn",
+                "repo": "MapClosures",
+                "stars": 431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 571928549,
+                "language": "Python",
+                "last_commit": "2025-07-24T07:15:09Z",
+                "owner": "zjuluolun",
+                "repo": "BEVPlace2",
+                "stars": 381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650931605,
+                "language": "C++",
+                "last_commit": "2024-10-07T08:39:15Z",
+                "owner": "hku-mars",
+                "repo": "btc_descriptor",
+                "stars": 355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654864734,
+                "language": "C++",
+                "last_commit": "2025-01-06T03:57:44Z",
+                "owner": "SlamCabbage",
+                "repo": "NDTMC",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 786759614,
+                "language": "Python",
+                "last_commit": "2026-08-11T11:23:41Z",
+                "owner": "sparolab",
+                "repo": "SOLiD",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 750904843,
+                "language": "Python",
+                "last_commit": "2024-12-05T07:54:39Z",
+                "owner": "nubot-nudt",
+                "repo": "LCR-Net",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 795089156,
+                "language": "Python",
+                "last_commit": "2024-05-21T01:34:16Z",
+                "owner": "SCNU-RISLAB",
+                "repo": "OverlapMamba",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 678524851,
+                "language": "Python",
+                "last_commit": "2024-09-11T14:03:21Z",
+                "owner": "rayguan97",
+                "repo": "crossloc3d",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSK: A Novel LiDAR Occupancy Set Key-Based Place Recognition Method in Urban Environment",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 681142340,
+                "language": "C++",
+                "last_commit": "2024-02-22T09:08:36Z",
+                "owner": "ZhangZh3ng",
+                "repo": "Occupancy-Set-Key",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "P-GAT: Pose-Graph Attentional Network for Lidar Place Recognition",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 636486637,
+                "language": "Python",
+                "last_commit": "2024-01-25T03:26:50Z",
+                "owner": "csiro-robotics",
+                "repo": "P-GAT",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RangePlace: A Hierarchical Range Image Transformer for LiDAR-Based Place Recognition",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 737467742,
+                "language": "Python",
+                "last_commit": "2024-10-10T15:08:28Z",
+                "owner": "jerichoji",
+                "repo": "RangePlace",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2023",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "STD: A Stable Triangle Descriptor for 3D place recognition 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 536367849,
+                "language": "C++",
+                "last_commit": "2023-05-06T15:02:39Z",
+                "owner": "hku-mars",
+                "repo": "STD",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 571928549,
+                "language": "Python",
+                "last_commit": "2025-07-24T07:15:09Z",
+                "owner": "zjuluolun",
+                "repo": "BEVPlace2",
+                "stars": 381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 694130299,
+                "language": "Python",
+                "last_commit": "2024-04-14T08:41:15Z",
+                "owner": "lus6-Jenny",
+                "repo": "RING",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488472298,
+                "language": "C++",
+                "last_commit": "2024-03-06T06:40:44Z",
+                "owner": "lewisjiang",
+                "repo": "contour-context",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uncertainty-Aware Lidar Place Recognition in Novel Environments 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537281676,
+                "language": "Python",
+                "last_commit": "2023-07-28T04:24:55Z",
+                "owner": "csiro-robotics",
+                "repo": "Uncertainty-LPR",
+                "stars": 66
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2022",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727271962,
+                "language": "MATLAB",
+                "last_commit": "2025-05-03T11:25:49Z",
+                "owner": "gisbi-kim",
+                "repo": "scancontext_tro",
+                "stars": 336
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 458176111,
+                "language": "Python",
+                "last_commit": "2024-07-29T09:12:59Z",
+                "owner": "haomo-ai",
+                "repo": "OverlapTransformer",
+                "stars": 294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346428861,
+                "language": "Python",
+                "last_commit": "2025-01-09T17:14:17Z",
+                "owner": "robot-learning-freiburg",
+                "repo": "LCDNet",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR SLAM in Complicated Circumstances with Noisy Point Clouds 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581445419,
+                "language": "C++",
+                "last_commit": "2022-12-27T10:46:24Z",
+                "owner": "KangchengLiu",
+                "repo": "DLC_LiDAR_SLAM",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454608556,
+                "language": "Python",
+                "last_commit": "2023-10-06T01:39:41Z",
+                "owner": "csiro-robotics",
+                "repo": "LoGG3D-Net",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501610028,
+                "language": "Python",
+                "last_commit": "2023-06-30T07:48:47Z",
+                "owner": "BIT-MJY",
+                "repo": "SeqOT",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 451636000,
+                "language": "Python",
+                "last_commit": "2024-01-31T16:54:38Z",
+                "owner": "jac99",
+                "repo": "MinkLoc3Dv2",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BVMatch: Lidar-based Place Recognition Using Bird's-eye View Images 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343396597,
+                "language": "C++",
+                "last_commit": "2022-01-17T07:21:25Z",
+                "owner": "zjuluolun",
+                "repo": "BVMatch",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Frequency-Domain Scan Context for Robust LiDAR-based Place Recognition with Translation and Rotation Invariance 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493078358,
+                "language": "MATLAB",
+                "last_commit": "2022-09-26T08:35:20Z",
+                "owner": "soytony",
+                "repo": "FreSCo",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357527742,
+                "language": "Python",
+                "last_commit": "2022-03-01T11:24:50Z",
+                "owner": "lilin-hitcrt",
+                "repo": "RINet",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InCloud: Incremental Learning for Point Cloud Place Recognition",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469542865,
+                "language": "Python",
+                "last_commit": "2024-03-08T01:38:36Z",
+                "owner": "csiro-robotics",
+                "repo": "InCloud",
+                "stars": 42
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2021",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Robust Place Recognition using an Imaging Lidar 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343149609,
+                "language": "C++",
+                "last_commit": "2024-08-05T06:49:11Z",
+                "owner": "TixiaoShan",
+                "repo": "imaging_lidar_place_recognition",
+                "stars": 432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MinkLoc3D: Point Cloud Based Large-Scale Place Recognition 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312086587,
+                "language": "Python",
+                "last_commit": "2024-01-31T11:11:00Z",
+                "owner": "jac99",
+                "repo": "MinkLoc3D",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 319513917,
+                "language": "Python",
+                "last_commit": "2024-06-12T03:35:46Z",
+                "owner": "csiro-robotics",
+                "repo": "locus",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308404369,
+                "language": "Python",
+                "last_commit": "2021-03-26T13:15:13Z",
+                "owner": "dachengxiaocheng",
+                "repo": "NDT-Transformer",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Disco: Differentiable scan context with orientation 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304415240,
+                "language": "Python",
+                "last_commit": "2022-03-22T09:31:09Z",
+                "owner": "MaverickPeter",
+                "repo": "DiSCO-pytorch",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoNN: Egocentric Neural Network for Point Cloud Based 6DoF Relocalization at the City Scale",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 391028989,
+                "language": "Python",
+                "last_commit": "2022-03-03T11:45:51Z",
+                "owner": "jac99",
+                "repo": "Egonn",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MinkLoc3D-SI: 3D LiDAR Place Recognition With Sparse Convolutions, Spherical Coordinates, and Intensity",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390676621,
+                "language": "Python",
+                "last_commit": "2022-02-14T09:36:41Z",
+                "owner": "KamilZywanowski",
+                "repo": "MinkLoc3D-SI",
+                "stars": 34
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2020",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OverlapNet: Loop Closing for LiDAR-based SLAM 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263319282,
+                "language": "Python",
+                "last_commit": "2023-03-24T22:59:34Z",
+                "owner": "PRBonn",
+                "repo": "OverlapNet",
+                "stars": 734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260209378,
+                "language": "C++",
+                "last_commit": "2024-03-24T07:47:49Z",
+                "owner": "wh200720041",
+                "repo": "iscloam",
+                "stars": 603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Semantic Graph Based Place Recognition for 3D Point Clouds 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279800352,
+                "language": "Python",
+                "last_commit": "2024-07-25T11:03:57Z",
+                "owner": "kxhit",
+                "repo": "SG_PR",
+                "stars": 205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LiDAR Iris for Loop-Closure Detection 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276631430,
+                "language": "C++",
+                "last_commit": "2020-12-28T10:26:38Z",
+                "owner": "BigMoWangying",
+                "repo": "LiDAR-Iris",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3D LiDAR-Based Global Localization Using Siamese Neural Network 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220736912,
+                "language": null,
+                "last_commit": "2022-07-13T08:28:15Z",
+                "owner": "HuanYin94",
+                "repo": "LocNet_caffe",
+                "stars": 32
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2019",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182686348,
+                "language": "Python",
+                "last_commit": "2022-12-20T03:57:12Z",
+                "owner": "XLechter",
+                "repo": "PCAN",
+                "stars": 75
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2018",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125535567,
+                "language": "Python",
+                "last_commit": "2020-01-19T19:13:28Z",
+                "owner": "mikacuy",
+                "repo": "pointnetvlad",
+                "stars": 400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 409887401,
+                "language": "C++",
+                "last_commit": "2021-09-24T08:30:39Z",
+                "owner": "gisbi-kim",
+                "repo": "scancontext",
+                "stars": 112
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2017",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SegMatch: Segment based place recognition in 3D point clouds 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126657781,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-03-25T02:28:09Z",
+                "owner": "ZengYeGe",
+                "repo": "segmatch",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2016",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "M2DP: A novel 3D point cloud descriptor and its application in loop closure detection 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63903248,
+                "language": "MATLAB",
+                "last_commit": "2019-01-22T07:00:43Z",
+                "owner": "LiHeUA",
+                "repo": "M2DP",
+                "stars": 96
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2015",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Fast Histogram-Based Similarity Measure for Detecting Loop Closures in 3-D LIDAR Data 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190498743,
+                "language": "Makefile",
+                "last_commit": "2019-06-06T02:30:38Z",
+                "owner": "wangliuliu",
+                "repo": "histogram",
+                "stars": 12
+              }
+            }
+          ]
+        }
+      ],
+      "title": "LiDAR Place Recognition Methods"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "2024",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments 🤖",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597679786,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-09-14T07:32:25Z",
+                "owner": "robot-pesg",
+                "repo": "BotanicGarden",
+                "stars": 304
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2023",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned 🤖",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605727301,
+                "language": null,
+                "last_commit": "2026-07-07T01:11:30Z",
+                "owner": "MIT-SPARK",
+                "repo": "Kimera-Multi-Data",
+                "stars": 199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping 🚙",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 646067827,
+                "language": null,
+                "last_commit": "2024-03-22T06:21:55Z",
+                "owner": "junzhang2016",
+                "repo": "NTU4DRadLM",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ConPR: Ongoing Construction Site Dataset for Place Recognition 🧔",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675525796,
+                "language": "C++",
+                "last_commit": "2025-11-19T16:40:36Z",
+                "owner": "dongjae0107",
+                "repo": "ConPR",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "S3E: A Large-scale Multimodal Dataset for Collaborative SLAM 🤖",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 832577207,
+                "language": "HTML",
+                "last_commit": "2025-10-17T04:30:07Z",
+                "owner": "PengYu-Team",
+                "repo": "S3E",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2022",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization 🤖",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433197009,
+                "language": "C++",
+                "last_commit": "2024-10-04T16:52:09Z",
+                "owner": "RobustFieldAutonomyLab",
+                "repo": "DiSCo-SLAM",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ALITA: A Large-scale Incremental Dataset for Long-term Autonomy 🚙",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 491653788,
+                "language": "Python",
+                "last_commit": "2024-06-20T07:04:52Z",
+                "owner": "MetaSLAM",
+                "repo": "ALITA",
+                "stars": 105
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2021",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Robust Place Recognition using an Imaging Lidar 🧔",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343149609,
+                "language": "C++",
+                "last_commit": "2024-08-05T06:49:11Z",
+                "owner": "TixiaoShan",
+                "repo": "imaging_lidar_place_recognition",
+                "stars": 432
+              }
+            }
+          ]
+        }
+      ],
+      "title": "LiDAR Place Recognition Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "2023",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MR_SLAM with RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519719213,
+                "language": "C++",
+                "last_commit": "2024-06-16T12:15:41Z",
+                "owner": "MaverickPeter",
+                "repo": "MR_SLAM",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Real-Time Simultaneous Localization and Mapping with LiDAR intensity 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656374861,
+                "language": "C++",
+                "last_commit": "2024-03-07T16:09:52Z",
+                "owner": "MISTLab",
+                "repo": "Intensity_based_LiDAR_SLAM",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DLC-SLAM: A Robust LiDAR-SLAM System With Learning-Based Denoising and Loop Closure 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581445419,
+                "language": "C++",
+                "last_commit": "2022-12-27T10:46:24Z",
+                "owner": "KangchengLiu",
+                "repo": "DLC_LiDAR_SLAM",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 955717034,
+                "language": null,
+                "last_commit": "2025-03-27T04:46:35Z",
+                "owner": "PengYu-Team",
+                "repo": "DCL-SLAM",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2022",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366035190,
+                "language": "C++",
+                "last_commit": "2023-01-30T17:47:02Z",
+                "owner": "gisbi-kim",
+                "repo": "SC-A-LOAM",
+                "stars": 623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380930630,
+                "language": "C++",
+                "last_commit": "2025-02-18T05:06:26Z",
+                "owner": "gisbi-kim",
+                "repo": "lt-mapper",
+                "stars": 541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization 🔥",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433197009,
+                "language": "C++",
+                "last_commit": "2024-10-04T16:52:09Z",
+                "owner": "RobustFieldAutonomyLab",
+                "repo": "DiSCo-SLAM",
+                "stars": 290
+              }
+            }
+          ]
+        }
+      ],
+      "title": "LiDAR Place Recognition with Various Algorithms"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T16:00:58.100Z",
+    "last_updated": "2026-08-24T14:33:34.680Z",
     "original_repository": "hogyun2/awesome-lidar-place-recognition",
     "original_repository_id": 774038484,
     "original_repository_sha": "8290b56d2fda5ce9ef72aacbab09e7671a48952a",
