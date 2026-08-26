@@ -771,7 +771,7 @@
                 "last_commit": "2025-09-14T07:32:25Z",
                 "owner": "robot-pesg",
                 "repo": "BotanicGarden",
-                "stars": 304
+                "stars": 305
               }
             }
           ]
@@ -860,7 +860,7 @@
                 "last_commit": "2024-10-04T16:52:09Z",
                 "owner": "RobustFieldAutonomyLab",
                 "repo": "DiSCo-SLAM",
-                "stars": 290
+                "stars": 291
               }
             },
             {
@@ -1022,7 +1022,7 @@
                 "last_commit": "2024-10-04T16:52:09Z",
                 "owner": "RobustFieldAutonomyLab",
                 "repo": "DiSCo-SLAM",
-                "stars": 290
+                "stars": 291
               }
             }
           ]
@@ -1032,7 +1032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:19:53.063Z",
+    "last_updated": "2026-08-26T16:38:51.682Z",
     "original_repository": "hogyun2/awesome-lidar-place-recognition",
     "original_repository_id": 774038484,
     "original_repository_sha": "8290b56d2fda5ce9ef72aacbab09e7671a48952a",
