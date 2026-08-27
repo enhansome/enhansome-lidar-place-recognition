@@ -35,7 +35,7 @@
                 "last_commit": "2025-07-24T07:15:09Z",
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 381
+                "stars": 382
               }
             },
             {
@@ -50,7 +50,7 @@
                 "last_commit": "2024-10-07T08:39:15Z",
                 "owner": "hku-mars",
                 "repo": "btc_descriptor",
-                "stars": 355
+                "stars": 356
               }
             },
             {
@@ -65,7 +65,7 @@
                 "last_commit": "2025-01-06T03:57:44Z",
                 "owner": "SlamCabbage",
                 "repo": "NDTMC",
-                "stars": 226
+                "stars": 225
               }
             },
             {
@@ -207,7 +207,7 @@
                 "last_commit": "2025-07-24T07:15:09Z",
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 381
+                "stars": 382
               }
             },
             {
@@ -1032,9 +1032,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:38:51.682Z",
-    "original_repository": "hogyun2/awesome-lidar-place-recognition",
-    "original_repository_id": 774038484,
+    "last_updated": "2026-08-27T11:46:42.745Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 774038484,
+      "language": null,
+      "last_commit": "2024-10-02T00:29:04Z",
+      "owner": "hogyun2",
+      "repo": "awesome-lidar-place-recognition",
+      "stars": 216
+    },
     "original_repository_sha": "8290b56d2fda5ce9ef72aacbab09e7671a48952a",
     "enhanced_repository": "enhansome/enhansome-lidar-place-recognition",
     "enhanced_repository_description": null,
