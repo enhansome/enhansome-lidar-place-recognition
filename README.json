@@ -21,7 +21,8 @@
                 "owner": "PRBonn",
                 "repo": "MapClosures",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
                 "stars": 382
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -50,8 +52,9 @@
                 "last_commit": "2024-10-07T08:39:15Z",
                 "owner": "hku-mars",
                 "repo": "btc_descriptor",
-                "stars": 356
-              }
+                "stars": 357
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -66,7 +69,8 @@
                 "owner": "SlamCabbage",
                 "repo": "NDTMC",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -81,7 +85,8 @@
                 "owner": "sparolab",
                 "repo": "SOLiD",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -96,7 +101,8 @@
                 "owner": "nubot-nudt",
                 "repo": "LCR-Net",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -111,7 +117,8 @@
                 "owner": "SCNU-RISLAB",
                 "repo": "OverlapMamba",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -126,7 +133,8 @@
                 "owner": "rayguan97",
                 "repo": "crossloc3d",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -141,7 +149,8 @@
                 "owner": "ZhangZh3ng",
                 "repo": "Occupancy-Set-Key",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -156,7 +165,8 @@
                 "owner": "csiro-robotics",
                 "repo": "P-GAT",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -171,7 +181,8 @@
                 "owner": "jerichoji",
                 "repo": "RangePlace",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -192,8 +203,9 @@
                 "last_commit": "2023-05-06T15:02:39Z",
                 "owner": "hku-mars",
                 "repo": "STD",
-                "stars": 733
-              }
+                "stars": 734
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -208,7 +220,8 @@
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
                 "stars": 382
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -223,7 +236,8 @@
                 "owner": "lus6-Jenny",
                 "repo": "RING",
                 "stars": 228
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -238,7 +252,8 @@
                 "owner": "lewisjiang",
                 "repo": "contour-context",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -253,7 +268,8 @@
                 "owner": "csiro-robotics",
                 "repo": "Uncertainty-LPR",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -275,7 +291,8 @@
                 "owner": "gisbi-kim",
                 "repo": "scancontext_tro",
                 "stars": 337
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -290,7 +307,8 @@
                 "owner": "haomo-ai",
                 "repo": "OverlapTransformer",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -305,7 +323,8 @@
                 "owner": "robot-learning-freiburg",
                 "repo": "LCDNet",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -320,7 +339,8 @@
                 "owner": "KangchengLiu",
                 "repo": "DLC_LiDAR_SLAM",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -335,7 +355,8 @@
                 "owner": "csiro-robotics",
                 "repo": "LoGG3D-Net",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -350,7 +371,8 @@
                 "owner": "BIT-MJY",
                 "repo": "SeqOT",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -365,7 +387,8 @@
                 "owner": "jac99",
                 "repo": "MinkLoc3Dv2",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -380,7 +403,8 @@
                 "owner": "zjuluolun",
                 "repo": "BVMatch",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -395,7 +419,8 @@
                 "owner": "soytony",
                 "repo": "FreSCo",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -410,7 +435,8 @@
                 "owner": "lilin-hitcrt",
                 "repo": "RINet",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -425,7 +451,8 @@
                 "owner": "csiro-robotics",
                 "repo": "InCloud",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -447,7 +474,8 @@
                 "owner": "TixiaoShan",
                 "repo": "imaging_lidar_place_recognition",
                 "stars": 432
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -462,7 +490,8 @@
                 "owner": "jac99",
                 "repo": "MinkLoc3D",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -477,7 +506,8 @@
                 "owner": "csiro-robotics",
                 "repo": "locus",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -492,7 +522,8 @@
                 "owner": "dachengxiaocheng",
                 "repo": "NDT-Transformer",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -507,7 +538,8 @@
                 "owner": "MaverickPeter",
                 "repo": "DiSCO-pytorch",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -522,7 +554,8 @@
                 "owner": "jac99",
                 "repo": "Egonn",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -537,7 +570,8 @@
                 "owner": "KamilZywanowski",
                 "repo": "MinkLoc3D-SI",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -559,7 +593,8 @@
                 "owner": "PRBonn",
                 "repo": "OverlapNet",
                 "stars": 734
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -574,7 +609,8 @@
                 "owner": "wh200720041",
                 "repo": "iscloam",
                 "stars": 603
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -589,7 +625,8 @@
                 "owner": "kxhit",
                 "repo": "SG_PR",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -604,7 +641,8 @@
                 "owner": "BigMoWangying",
                 "repo": "LiDAR-Iris",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -619,7 +657,8 @@
                 "owner": "HuanYin94",
                 "repo": "LocNet_caffe",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -641,7 +680,8 @@
                 "owner": "XLechter",
                 "repo": "PCAN",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -663,7 +703,8 @@
                 "owner": "mikacuy",
                 "repo": "pointnetvlad",
                 "stars": 400
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -678,7 +719,8 @@
                 "owner": "gisbi-kim",
                 "repo": "scancontext",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -700,7 +742,8 @@
                 "owner": "ZengYeGe",
                 "repo": "segmatch",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -722,7 +765,8 @@
                 "owner": "LiHeUA",
                 "repo": "M2DP",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -744,7 +788,8 @@
                 "owner": "wangliuliu",
                 "repo": "histogram",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         }
@@ -772,7 +817,8 @@
                 "owner": "robot-pesg",
                 "repo": "BotanicGarden",
                 "stars": 304
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -794,7 +840,8 @@
                 "owner": "MIT-SPARK",
                 "repo": "Kimera-Multi-Data",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -809,7 +856,8 @@
                 "owner": "junzhang2016",
                 "repo": "NTU4DRadLM",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -824,7 +872,8 @@
                 "owner": "dongjae0107",
                 "repo": "ConPR",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -839,7 +888,8 @@
                 "owner": "PengYu-Team",
                 "repo": "S3E",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -861,7 +911,8 @@
                 "owner": "RobustFieldAutonomyLab",
                 "repo": "DiSCo-SLAM",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -876,7 +927,8 @@
                 "owner": "MetaSLAM",
                 "repo": "ALITA",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -898,7 +950,8 @@
                 "owner": "TixiaoShan",
                 "repo": "imaging_lidar_place_recognition",
                 "stars": 432
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         }
@@ -926,7 +979,8 @@
                 "owner": "MaverickPeter",
                 "repo": "MR_SLAM",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -941,7 +995,8 @@
                 "owner": "MISTLab",
                 "repo": "Intensity_based_LiDAR_SLAM",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -956,7 +1011,8 @@
                 "owner": "KangchengLiu",
                 "repo": "DLC_LiDAR_SLAM",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -971,7 +1027,8 @@
                 "owner": "PengYu-Team",
                 "repo": "DCL-SLAM",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         },
@@ -992,8 +1049,9 @@
                 "last_commit": "2023-01-30T17:47:02Z",
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 623
-              }
+                "stars": 624
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -1008,7 +1066,8 @@
                 "owner": "gisbi-kim",
                 "repo": "lt-mapper",
                 "stars": 541
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             },
             {
               "node_type": "item",
@@ -1023,7 +1082,8 @@
                 "owner": "RobustFieldAutonomyLab",
                 "repo": "DiSCo-SLAM",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-29T00:08:57.226Z"
             }
           ]
         }
@@ -1032,7 +1092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:37:22.189Z",
+    "last_updated": "2026-08-29T00:08:57.226Z",
     "original_repository_info": {
       "archived": false,
       "id": 774038484,
