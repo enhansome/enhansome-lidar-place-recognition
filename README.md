@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,893 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,108 | 🐛 105 | 📅 2026-08-21
 
 </div>
 
@@ -83,7 +83,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Learning`** **`ICCV`** CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2303.17778-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2303.17778) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rayguan97/crossloc3d) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2024-09-11
+    [![arXiv](https://img.shields.io/badge/arXiv-2303.17778-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2303.17778) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rayguan97/crossloc3d) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2024-09-11
 
   * **`Handcraft`** **`TIM`** OSK: A Novel LiDAR Occupancy Set Key-Based Place Recognition Method in Urban Environment
 
@@ -123,7 +123,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`TRO`** Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2109.13494-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2109.13494) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext_tro) ⭐ 337 | 🐛 3 | 🌐 MATLAB | 📅 2025-05-03
+    [![arXiv](https://img.shields.io/badge/arXiv-2109.13494-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2109.13494) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext_tro) ⭐ 338 | 🐛 3 | 🌐 MATLAB | 📅 2025-05-03
 
   * **`Learning`** **`RAL/IROS`** OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition 🔥
 
@@ -385,7 +385,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Mapping Framework`** **`ICRA`** LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2107.07712-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2107.07712) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/lt-mapper) ⭐ 541 | 🐛 8 | 🌐 C++ | 📅 2025-02-18
+    [![arXiv](https://img.shields.io/badge/arXiv-2107.07712-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2107.07712) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/lt-mapper) ⭐ 543 | 🐛 8 | 🌐 C++ | 📅 2025-02-18
 
   * **`Multi-Robot SLAM`** **`RAL`** DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization 🔥
 
