@@ -108,7 +108,7 @@
                 "open_issues": 0,
                 "owner": "sparolab",
                 "repo": "SOLiD",
-                "stars": 204,
+                "stars": 205,
                 "topics": [
                   "lidar",
                   "localization",
@@ -291,7 +291,7 @@
                 "open_issues": 34,
                 "owner": "hku-mars",
                 "repo": "STD",
-                "stars": 734,
+                "stars": 735,
                 "topics": [
                   "lidar-slam",
                   "loop-closure",
@@ -1565,7 +1565,7 @@
                 "open_issues": 8,
                 "owner": "gisbi-kim",
                 "repo": "lt-mapper",
-                "stars": 543,
+                "stars": 544,
                 "topics": [
                   "change-detection",
                   "lidar",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:49:40.472Z",
+    "last_updated": "2026-08-31T21:07:13.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
@@ -1614,10 +1614,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-10-02T00:29:04Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "hogyun2",
       "repo": "awesome-lidar-place-recognition",
-      "stars": 216,
+      "stars": 217,
       "topics": [
         "awesome",
         "awesome-list",
