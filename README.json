@@ -45,7 +45,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 382,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -108,7 +108,7 @@
                 "open_issues": 0,
                 "owner": "sparolab",
                 "repo": "SOLiD",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "lidar",
                   "localization",
@@ -179,7 +179,7 @@
                 "id": 678524851,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2024-09-11T14:03:21Z",
+                "last_commit": "2026-08-31T22:04:51Z",
                 "open_issues": 3,
                 "owner": "rayguan97",
                 "repo": "crossloc3d",
@@ -318,7 +318,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 382,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -599,7 +599,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2022-01-17T07:21:25Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "zjuluolun",
                 "repo": "BVMatch",
                 "stars": 88,
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:07:13.002Z",
+    "last_updated": "2026-09-01T18:52:09.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
