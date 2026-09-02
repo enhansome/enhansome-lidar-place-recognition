@@ -45,7 +45,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 383,
+                "stars": 384,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -87,7 +87,7 @@
                 "open_issues": 0,
                 "owner": "SlamCabbage",
                 "repo": "NDTMC",
-                "stars": 225,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -318,7 +318,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 383,
+                "stars": 384,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -339,7 +339,7 @@
                 "open_issues": 1,
                 "owner": "lus6-Jenny",
                 "repo": "RING",
-                "stars": 228,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -467,7 +467,7 @@
                 "open_issues": 3,
                 "owner": "robot-learning-freiburg",
                 "repo": "LCDNet",
-                "stars": 216,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -599,7 +599,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2022-01-17T07:21:25Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BVMatch",
                 "stars": 88,
@@ -1528,7 +1528,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:52:09.463Z",
+    "last_updated": "2026-09-02T18:58:25.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
