@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,655 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,982 | 🐛 106 | 📅 2026-09-02
 
 </div>
 
@@ -55,7 +55,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** Effectively Detecting Loop Closures using Point Cloud Density Maps 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) ⭐ 431 | 🐛 2 | 🌐 C++ | 📅 2026-08-14
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) ⭐ 432 | 🐛 2 | 🌐 C++ | 📅 2026-08-14
 
   * **`Learning`** **`TRO`** BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles 🔥
 
@@ -63,7 +63,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`TRO`** BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10388464) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor) ⭐ 357 | 🐛 14 | 🌐 C++ | 📅 2024-10-07
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10388464) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor) ⭐ 358 | 🐛 14 | 🌐 C++ | 📅 2024-10-07
 
   * **`Handcraft`** **`IROS`** NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM 🔥
 
@@ -71,7 +71,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`RAL`** Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10629042) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sparolab/solid) ⭐ 206 | 🐛 0 | 🌐 Python | 📅 2026-08-11
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10629042) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sparolab/solid) ⭐ 207 | 🐛 0 | 🌐 Python | 📅 2026-08-11
 
   * **`Learning`** **`TRO`** Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM
 
@@ -227,7 +227,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Learning`** **`CVPR`** PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-1804.03492-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1804.03492) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mikacuy/pointnetvlad) ⭐ 400 | 🐛 8 | 🌐 Python | 📅 2020-01-19
+    [![arXiv](https://img.shields.io/badge/arXiv-1804.03492-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1804.03492) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mikacuy/pointnetvlad) ⭐ 401 | 🐛 8 | 🌐 Python | 📅 2020-01-19
 
   * **`Handcraft`** **`IROS`** Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map 🔥
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
