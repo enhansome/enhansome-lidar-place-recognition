@@ -45,7 +45,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -318,7 +318,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1528,7 +1528,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:41:47.070Z",
+    "last_updated": "2026-09-11T18:45:32.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
