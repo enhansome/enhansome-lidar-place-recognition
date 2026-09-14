@@ -45,7 +45,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 387,
+                "stars": 386,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -66,7 +66,7 @@
                 "open_issues": 14,
                 "owner": "hku-mars",
                 "repo": "btc_descriptor",
-                "stars": 360,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -318,7 +318,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 387,
+                "stars": 386,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -961,7 +961,7 @@
                 "open_issues": 2,
                 "owner": "kxhit",
                 "repo": "SG_PR",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "autonomous-driving",
                   "graph-neural-networks",
@@ -1211,7 +1211,7 @@
                 "open_issues": 13,
                 "owner": "robot-pesg",
                 "repo": "BotanicGarden",
-                "stars": 305,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1448,7 +1448,7 @@
                 "open_issues": 0,
                 "owner": "MISTLab",
                 "repo": "Intensity_based_LiDAR_SLAM",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "intensity-based-registration",
                   "lidar-slam"
@@ -1528,7 +1528,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 626,
+                "stars": 627,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1565,7 +1565,7 @@
                 "open_issues": 8,
                 "owner": "gisbi-kim",
                 "repo": "lt-mapper",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "change-detection",
                   "lidar",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:21:27.734Z",
+    "last_updated": "2026-09-14T19:57:16.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
