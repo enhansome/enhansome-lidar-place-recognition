@@ -24,7 +24,7 @@
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "MapClosures",
-                "stars": 433,
+                "stars": 435,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1067,7 +1067,7 @@
                 "open_issues": 8,
                 "owner": "mikacuy",
                 "repo": "pointnetvlad",
-                "stars": 401,
+                "stars": 402,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:15:54.334Z",
+    "last_updated": "2026-09-16T19:07:33.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
@@ -1617,7 +1617,7 @@
       "open_issues": 1,
       "owner": "hogyun2",
       "repo": "awesome-lidar-place-recognition",
-      "stars": 219,
+      "stars": 220,
       "topics": [
         "awesome",
         "awesome-list",
