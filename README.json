@@ -24,7 +24,7 @@
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "MapClosures",
-                "stars": 435,
+                "stars": 436,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -45,7 +45,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -87,7 +87,7 @@
                 "open_issues": 0,
                 "owner": "SlamCabbage",
                 "repo": "NDTMC",
-                "stars": 228,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -108,7 +108,7 @@
                 "open_issues": 0,
                 "owner": "sparolab",
                 "repo": "SOLiD",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "lidar",
                   "localization",
@@ -291,7 +291,7 @@
                 "open_issues": 34,
                 "owner": "hku-mars",
                 "repo": "STD",
-                "stars": 739,
+                "stars": 740,
                 "topics": [
                   "lidar-slam",
                   "loop-closure",
@@ -318,7 +318,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1281,7 +1281,7 @@
                 "open_issues": 0,
                 "owner": "dongjae0107",
                 "repo": "ConPR",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1330,7 +1330,7 @@
                 "open_issues": 15,
                 "owner": "RobustFieldAutonomyLab",
                 "repo": "DiSCo-SLAM",
-                "stars": 291,
+                "stars": 292,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1528,7 +1528,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1593,7 +1593,7 @@
                 "open_issues": 15,
                 "owner": "RobustFieldAutonomyLab",
                 "repo": "DiSCo-SLAM",
-                "stars": 291,
+                "stars": 292,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:07:33.406Z",
+    "last_updated": "2026-09-17T19:19:27.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
