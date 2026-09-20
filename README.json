@@ -24,7 +24,7 @@
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "MapClosures",
-                "stars": 437,
+                "stars": 439,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -183,7 +183,7 @@
                 "open_issues": 3,
                 "owner": "rayguan97",
                 "repo": "crossloc3d",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "3d-place-recognition",
                   "aerial-ground",
@@ -419,7 +419,7 @@
                 "open_issues": 3,
                 "owner": "gisbi-kim",
                 "repo": "scancontext_tro",
-                "stars": 340,
+                "stars": 341,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -907,7 +907,7 @@
                 "open_issues": 8,
                 "owner": "PRBonn",
                 "repo": "OverlapNet",
-                "stars": 734,
+                "stars": 735,
                 "topics": [
                   "3d-lidar",
                   "lidar",
@@ -1528,7 +1528,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1565,7 +1565,7 @@
                 "open_issues": 8,
                 "owner": "gisbi-kim",
                 "repo": "lt-mapper",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "change-detection",
                   "lidar",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:13:16.042Z",
+    "last_updated": "2026-09-20T18:19:14.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
