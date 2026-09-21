@@ -24,7 +24,7 @@
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "MapClosures",
-                "stars": 439,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -45,7 +45,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 387,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -179,8 +179,8 @@
                 "id": 678524851,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T22:04:51Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-21T16:30:58Z",
+                "open_issues": 2,
                 "owner": "rayguan97",
                 "repo": "crossloc3d",
                 "stars": 68,
@@ -318,7 +318,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 387,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -990,7 +990,7 @@
                 "open_issues": 4,
                 "owner": "BigMoWangying",
                 "repo": "LiDAR-Iris",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:19:14.717Z",
+    "last_updated": "2026-09-21T20:07:46.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
