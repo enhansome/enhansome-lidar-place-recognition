@@ -24,7 +24,7 @@
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "MapClosures",
-                "stars": 441,
+                "stars": 442,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1260,7 +1260,7 @@
                 "open_issues": 16,
                 "owner": "junzhang2016",
                 "repo": "NTU4DRadLM",
-                "stars": 188,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:15:34.309Z",
+    "last_updated": "2026-09-24T19:30:40.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
