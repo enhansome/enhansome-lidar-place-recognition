@@ -419,7 +419,7 @@
                 "open_issues": 3,
                 "owner": "gisbi-kim",
                 "repo": "scancontext_tro",
-                "stars": 342,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1260,7 +1260,7 @@
                 "open_issues": 16,
                 "owner": "junzhang2016",
                 "repo": "NTU4DRadLM",
-                "stars": 189,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:30:40.060Z",
+    "last_updated": "2026-09-25T19:34:52.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
