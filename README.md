@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,891 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,391 | 🐛 106 | 📅 2026-09-02
 
 </div>
 
@@ -101,7 +101,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** STD: A Stable Triangle Descriptor for 3D place recognition 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2209.12435-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.12435) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/STD) ⭐ 742 | 🐛 34 | 🌐 C++ | 📅 2023-05-06
+    [![arXiv](https://img.shields.io/badge/arXiv-2209.12435-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.12435) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/STD) ⭐ 743 | 🐛 34 | 🌐 C++ | 📅 2023-05-06
 
   * **`Learning`** **`ICCV`** BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images 🔥
 
@@ -113,7 +113,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2302.06149-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2302.06149) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/lewisjiang/contour-context) ⭐ 206 | 🐛 7 | 🌐 C++ | 📅 2024-03-06
+    [![arXiv](https://img.shields.io/badge/arXiv-2302.06149-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2302.06149) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/lewisjiang/contour-context) ⭐ 207 | 🐛 7 | 🌐 C++ | 📅 2024-03-06
 
   * **`Learning`** **`IROS`** Uncertainty-Aware Lidar Place Recognition in Novel Environments 🔥
 
@@ -147,7 +147,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Learning`** **`ICPR`** Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2203.00972-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.00972) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jac99/MinkLoc3Dv2) ⭐ 98 | 🐛 0 | 🌐 Python | 📅 2024-01-31
+    [![arXiv](https://img.shields.io/badge/arXiv-2203.00972-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.00972) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jac99/MinkLoc3Dv2) ⭐ 99 | 🐛 0 | 🌐 Python | 📅 2024-01-31
 
   * **`Learning`** **`CVPR`** BVMatch: Lidar-based Place Recognition Using Bird's-eye View Images 🔥
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
