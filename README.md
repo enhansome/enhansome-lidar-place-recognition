@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,961 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,392 | 🐛 106 | 📅 2026-09-02
 
 </div>
 
@@ -40,7 +40,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 <summary>Previous</summary>
 <div markdown="1">
 
-* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,346 | 🐛 1 | 📅 2026-09-23!
+* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,347 | 🐛 2 | 📅 2026-09-23!
 
 * **`24.03.20`**  First pull request!
 
@@ -63,7 +63,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`TRO`** BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10388464) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor) ⭐ 364 | 🐛 14 | 🌐 C++ | 📅 2024-10-07
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10388464) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor) ⭐ 365 | 🐛 14 | 🌐 C++ | 📅 2024-10-07
 
   * **`Handcraft`** **`IROS`** NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM 🔥
 
@@ -123,7 +123,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`TRO`** Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2109.13494-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2109.13494) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext_tro) ⭐ 344 | 🐛 3 | 🌐 MATLAB | 📅 2025-05-03
+    [![arXiv](https://img.shields.io/badge/arXiv-2109.13494-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2109.13494) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext_tro) ⭐ 345 | 🐛 3 | 🌐 MATLAB | 📅 2025-05-03
 
   * **`Learning`** **`RAL/IROS`** OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition 🔥
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
