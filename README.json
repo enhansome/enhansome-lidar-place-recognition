@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "Effectively Detecting Loop Closures using Point Cloud Density Maps 🔥",
-              "description": null,
+              "description": "PRBonn/MapClosures",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -32,7 +32,7 @@
             {
               "node_type": "item",
               "title": "BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles 🔥",
-              "description": null,
+              "description": "zjuluolun/BEVPlace2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -53,7 +53,7 @@
             {
               "node_type": "item",
               "title": "BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition 🔥",
-              "description": null,
+              "description": "hku-mars/btc_descriptor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -74,7 +74,7 @@
             {
               "node_type": "item",
               "title": "NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM 🔥",
-              "description": null,
+              "description": "SlamCabbage/NDTMC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -95,7 +95,7 @@
             {
               "node_type": "item",
               "title": "Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition 🔥",
-              "description": null,
+              "description": "sparolab/SOLiD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -122,7 +122,7 @@
             {
               "node_type": "item",
               "title": "Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM",
-              "description": null,
+              "description": "nubot-nudt/LCR-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,7 +149,7 @@
             {
               "node_type": "item",
               "title": "OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition",
-              "description": null,
+              "description": "SCNU-RISLAB/OverlapMamba",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -170,7 +170,7 @@
             {
               "node_type": "item",
               "title": "CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition",
-              "description": null,
+              "description": "rayguan97/crossloc3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -200,7 +200,7 @@
             {
               "node_type": "item",
               "title": "OSK: A Novel LiDAR Occupancy Set Key-Based Place Recognition Method in Urban Environment",
-              "description": null,
+              "description": "ZhangZh3ng/Occupancy-Set-Key",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,7 +221,7 @@
             {
               "node_type": "item",
               "title": "P-GAT: Pose-Graph Attentional Network for Lidar Place Recognition",
-              "description": null,
+              "description": "csiro-robotics/P-GAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -250,7 +250,7 @@
             {
               "node_type": "item",
               "title": "RangePlace: A Hierarchical Range Image Transformer for LiDAR-Based Place Recognition",
-              "description": null,
+              "description": "jerichoji/RangePlace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -278,7 +278,7 @@
             {
               "node_type": "item",
               "title": "STD: A Stable Triangle Descriptor for 3D place recognition 🔥",
-              "description": null,
+              "description": "hku-mars/STD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -305,7 +305,7 @@
             {
               "node_type": "item",
               "title": "BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images 🔥",
-              "description": null,
+              "description": "zjuluolun/BEVPlace2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -326,7 +326,7 @@
             {
               "node_type": "item",
               "title": "RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map 🔥",
-              "description": null,
+              "description": "lus6-Jenny/RING",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -347,7 +347,7 @@
             {
               "node_type": "item",
               "title": "Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation 🔥",
-              "description": null,
+              "description": "lewisjiang/contour-context",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -371,7 +371,7 @@
             {
               "node_type": "item",
               "title": "Uncertainty-Aware Lidar Place Recognition in Novel Environments 🔥",
-              "description": null,
+              "description": "csiro-robotics/Uncertainty-LPR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -406,7 +406,7 @@
             {
               "node_type": "item",
               "title": "Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments 🔥",
-              "description": null,
+              "description": "gisbi-kim/scancontext_tro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -427,7 +427,7 @@
             {
               "node_type": "item",
               "title": "OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition 🔥",
-              "description": null,
+              "description": "haomo-ai/OverlapTransformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -454,7 +454,7 @@
             {
               "node_type": "item",
               "title": "LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM 🔥",
-              "description": null,
+              "description": "robot-learning-freiburg/LCDNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -475,7 +475,7 @@
             {
               "node_type": "item",
               "title": "D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR SLAM in Complicated Circumstances with Noisy Point Clouds 🔥",
-              "description": null,
+              "description": "KangchengLiu/DLC_LiDAR_SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -503,7 +503,7 @@
             {
               "node_type": "item",
               "title": "LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition 🔥",
-              "description": null,
+              "description": "csiro-robotics/LoGG3D-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -535,7 +535,7 @@
             {
               "node_type": "item",
               "title": "SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data 🔥",
-              "description": null,
+              "description": "BIT-MJY/SeqOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -559,7 +559,7 @@
             {
               "node_type": "item",
               "title": "Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training 🔥",
-              "description": null,
+              "description": "jac99/MinkLoc3Dv2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -589,7 +589,7 @@
             {
               "node_type": "item",
               "title": "BVMatch: Lidar-based Place Recognition Using Bird's-eye View Images 🔥",
-              "description": null,
+              "description": "zjuluolun/BVMatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -610,7 +610,7 @@
             {
               "node_type": "item",
               "title": "Frequency-Domain Scan Context for Robust LiDAR-based Place Recognition with Translation and Rotation Invariance 🔥",
-              "description": null,
+              "description": "soytony/FreSCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -631,7 +631,7 @@
             {
               "node_type": "item",
               "title": "RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network",
-              "description": null,
+              "description": "lilin-hitcrt/RINet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -652,7 +652,7 @@
             {
               "node_type": "item",
               "title": "InCloud: Incremental Learning for Point Cloud Place Recognition",
-              "description": null,
+              "description": "csiro-robotics/InCloud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -690,7 +690,7 @@
             {
               "node_type": "item",
               "title": "Robust Place Recognition using an Imaging Lidar 🔥",
-              "description": null,
+              "description": "TixiaoShan/imaging_lidar_place_recognition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -719,7 +719,7 @@
             {
               "node_type": "item",
               "title": "MinkLoc3D: Point Cloud Based Large-Scale Place Recognition 🔥",
-              "description": null,
+              "description": "jac99/MinkLoc3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -749,7 +749,7 @@
             {
               "node_type": "item",
               "title": "Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling 🔥",
-              "description": null,
+              "description": "csiro-robotics/locus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -779,7 +779,7 @@
             {
               "node_type": "item",
               "title": "NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation 🔥",
-              "description": null,
+              "description": "dachengxiaocheng/NDT-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -800,7 +800,7 @@
             {
               "node_type": "item",
               "title": "Disco: Differentiable scan context with orientation 🔥",
-              "description": null,
+              "description": "MaverickPeter/DiSCO-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +826,7 @@
             {
               "node_type": "item",
               "title": "EgoNN: Egocentric Neural Network for Point Cloud Based 6DoF Relocalization at the City Scale",
-              "description": null,
+              "description": "jac99/Egonn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -860,7 +860,7 @@
             {
               "node_type": "item",
               "title": "MinkLoc3D-SI: 3D LiDAR Place Recognition With Sparse Convolutions, Spherical Coordinates, and Intensity",
-              "description": null,
+              "description": "KamilZywanowski/MinkLoc3D-SI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -894,7 +894,7 @@
             {
               "node_type": "item",
               "title": "OverlapNet: Loop Closing for LiDAR-based SLAM 🔥",
-              "description": null,
+              "description": "PRBonn/OverlapNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -921,7 +921,7 @@
             {
               "node_type": "item",
               "title": "Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection 🔥",
-              "description": null,
+              "description": "wh200720041/iscloam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -948,7 +948,7 @@
             {
               "node_type": "item",
               "title": "Semantic Graph Based Place Recognition for 3D Point Clouds 🔥",
-              "description": null,
+              "description": "kxhit/SG_PR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -977,7 +977,7 @@
             {
               "node_type": "item",
               "title": "LiDAR Iris for Loop-Closure Detection 🔥",
-              "description": null,
+              "description": "BigMoWangying/LiDAR-Iris",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -998,7 +998,7 @@
             {
               "node_type": "item",
               "title": "3D LiDAR-Based Global Localization Using Siamese Neural Network 🔥",
-              "description": null,
+              "description": "HuanYin94/LocNet_caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1026,7 +1026,7 @@
             {
               "node_type": "item",
               "title": "PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval",
-              "description": null,
+              "description": "XLechter/PCAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1054,7 +1054,7 @@
             {
               "node_type": "item",
               "title": "PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition 🔥",
-              "description": null,
+              "description": "mikacuy/pointnetvlad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1080,7 +1080,7 @@
             {
               "node_type": "item",
               "title": "Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map 🔥",
-              "description": null,
+              "description": "gisbi-kim/scancontext",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1108,7 +1108,7 @@
             {
               "node_type": "item",
               "title": "SegMatch: Segment based place recognition in 3D point clouds 🔥",
-              "description": null,
+              "description": "ZengYeGe/segmatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1136,7 +1136,7 @@
             {
               "node_type": "item",
               "title": "M2DP: A novel 3D point cloud descriptor and its application in loop closure detection 🔥",
-              "description": null,
+              "description": "LiHeUA/M2DP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1164,7 +1164,7 @@
             {
               "node_type": "item",
               "title": "A Fast Histogram-Based Similarity Measure for Detecting Loop Closures in 3-D LIDAR Data 🔥",
-              "description": null,
+              "description": "wangliuliu/histogram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1198,7 +1198,7 @@
             {
               "node_type": "item",
               "title": "BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments 🤖",
-              "description": null,
+              "description": "robot-pesg/BotanicGarden",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1226,7 +1226,7 @@
             {
               "node_type": "item",
               "title": "Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned 🤖",
-              "description": null,
+              "description": "MIT-SPARK/Kimera-Multi-Data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1247,7 +1247,7 @@
             {
               "node_type": "item",
               "title": "NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping 🚙",
-              "description": null,
+              "description": "junzhang2016/NTU4DRadLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1268,7 +1268,7 @@
             {
               "node_type": "item",
               "title": "ConPR: Ongoing Construction Site Dataset for Place Recognition 🧔",
-              "description": null,
+              "description": "dongjae0107/ConPR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1289,7 +1289,7 @@
             {
               "node_type": "item",
               "title": "S3E: A Large-scale Multimodal Dataset for Collaborative SLAM 🤖",
-              "description": null,
+              "description": "PengYu-Team/S3E",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1317,7 +1317,7 @@
             {
               "node_type": "item",
               "title": "DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization 🤖",
-              "description": null,
+              "description": "RobustFieldAutonomyLab/DiSCo-SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1338,7 +1338,7 @@
             {
               "node_type": "item",
               "title": "ALITA: A Large-scale Incremental Dataset for Long-term Autonomy 🚙",
-              "description": null,
+              "description": "MetaSLAM/ALITA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1366,7 +1366,7 @@
             {
               "node_type": "item",
               "title": "Robust Place Recognition using an Imaging Lidar 🧔",
-              "description": null,
+              "description": "TixiaoShan/imaging_lidar_place_recognition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1408,7 +1408,7 @@
             {
               "node_type": "item",
               "title": "MR_SLAM with RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map 🔥",
-              "description": null,
+              "description": "MaverickPeter/MR_SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1435,7 +1435,7 @@
             {
               "node_type": "item",
               "title": "Real-Time Simultaneous Localization and Mapping with LiDAR intensity 🔥",
-              "description": null,
+              "description": "MISTLab/Intensity_based_LiDAR_SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1459,7 +1459,7 @@
             {
               "node_type": "item",
               "title": "DLC-SLAM: A Robust LiDAR-SLAM System With Learning-Based Denoising and Loop Closure 🔥",
-              "description": null,
+              "description": "KangchengLiu/DLC_LiDAR_SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1487,7 +1487,7 @@
             {
               "node_type": "item",
               "title": "DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm 🔥",
-              "description": null,
+              "description": "PengYu-Team/DCL-SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1515,7 +1515,7 @@
             {
               "node_type": "item",
               "title": "SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System 🔥",
-              "description": null,
+              "description": "gisbi-kim/SC-A-LOAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1552,7 +1552,7 @@
             {
               "node_type": "item",
               "title": "LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping 🔥",
-              "description": null,
+              "description": "gisbi-kim/lt-mapper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1580,7 +1580,7 @@
             {
               "node_type": "item",
               "title": "DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization 🔥",
-              "description": null,
+              "description": "RobustFieldAutonomyLab/DiSCo-SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:10:10.003Z",
+    "last_updated": "2026-10-03T04:54:28.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
