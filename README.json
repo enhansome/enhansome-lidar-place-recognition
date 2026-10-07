@@ -20,7 +20,7 @@
                 "id": 764533935,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-06T20:01:15Z",
+                "last_commit": "2026-10-07T07:45:38Z",
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "MapClosures",
@@ -66,7 +66,7 @@
                 "open_issues": 14,
                 "owner": "hku-mars",
                 "repo": "btc_descriptor",
-                "stars": 365,
+                "stars": 366,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:35:12.180Z",
+    "last_updated": "2026-10-07T20:48:45.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
