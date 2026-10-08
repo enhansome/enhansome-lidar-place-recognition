@@ -213,7 +213,7 @@
                 "open_issues": 0,
                 "owner": "ZhangZh3ng",
                 "repo": "Occupancy-Set-Key",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -291,7 +291,7 @@
                 "open_issues": 34,
                 "owner": "hku-mars",
                 "repo": "STD",
-                "stars": 743,
+                "stars": 744,
                 "topics": [
                   "lidar-slam",
                   "loop-closure",
@@ -1260,7 +1260,7 @@
                 "open_issues": 16,
                 "owner": "junzhang2016",
                 "repo": "NTU4DRadLM",
-                "stars": 190,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1528,7 +1528,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 629,
+                "stars": 630,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1565,7 +1565,7 @@
                 "open_issues": 8,
                 "owner": "gisbi-kim",
                 "repo": "lt-mapper",
-                "stars": 550,
+                "stars": 551,
                 "topics": [
                   "change-detection",
                   "lidar",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:48:45.413Z",
+    "last_updated": "2026-10-08T20:52:00.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
