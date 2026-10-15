@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,944 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,429 | 🐛 105 | 📅 2026-09-02
 
 </div>
 
@@ -55,7 +55,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** Effectively Detecting Loop Closures using Point Cloud Density Maps 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) ⭐ 446 | 🐛 2 | 🌐 C++ | 📅 2026-10-07
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) ⭐ 448 | 🐛 2 | 🌐 C++ | 📅 2026-10-07
 
   * **`Learning`** **`TRO`** BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles 🔥
 
@@ -155,7 +155,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICARCV`** Frequency-Domain Scan Context for Robust LiDAR-based Place Recognition with Translation and Rotation Invariance 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2206.12628-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2206.12628) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/soytony/FreSCo) ⭐ 70 | 🐛 1 | 🌐 MATLAB | 📅 2022-09-26
+    [![arXiv](https://img.shields.io/badge/arXiv-2206.12628-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2206.12628) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/soytony/FreSCo) ⭐ 71 | 🐛 1 | 🌐 MATLAB | 📅 2022-09-26
 
   * **`Learning`** **`RAL`** RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network
 
@@ -381,7 +381,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`SLAM Framework`** **`ICEIC`** SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2201.06423-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2201.06423) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-A-LOAM) ⭐ 631 | 🐛 20 | 🌐 C++ | 📅 2023-01-30 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LeGO-LOAM) ⭐ 76 | 🐛 2 | 🌐 C++ | 📅 2023-12-04 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LIO-SAM) ⭐ 853 | 🐛 23 | 🌐 C++ | 📅 2023-04-27 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/FAST_LIO_SLAM) ⭐ 823 | 🐛 18 | 🌐 C++ | 📅 2022-12-28
+    [![arXiv](https://img.shields.io/badge/arXiv-2201.06423-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2201.06423) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-A-LOAM) ⭐ 632 | 🐛 20 | 🌐 C++ | 📅 2023-01-30 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LeGO-LOAM) ⭐ 76 | 🐛 2 | 🌐 C++ | 📅 2023-12-04 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LIO-SAM) ⭐ 853 | 🐛 23 | 🌐 C++ | 📅 2023-04-27 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/FAST_LIO_SLAM) ⭐ 823 | 🐛 18 | 🌐 C++ | 📅 2022-12-28
 
   * **`Mapping Framework`** **`ICRA`** LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping 🔥
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
