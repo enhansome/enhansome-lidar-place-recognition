@@ -24,7 +24,7 @@
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "MapClosures",
-                "stars": 448,
+                "stars": 449,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -66,7 +66,7 @@
                 "open_issues": 14,
                 "owner": "hku-mars",
                 "repo": "btc_descriptor",
-                "stars": 370,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -135,7 +135,7 @@
                 "open_issues": 1,
                 "owner": "nubot-nudt",
                 "repo": "LCR-Net",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "lidar-slam",
                   "loop-closing",
@@ -440,7 +440,7 @@
                 "open_issues": 3,
                 "owner": "haomo-ai",
                 "repo": "OverlapTransformer",
-                "stars": 302,
+                "stars": 303,
                 "topics": [
                   "global-localization",
                   "lidar-place-recognition",
@@ -907,7 +907,7 @@
                 "open_issues": 8,
                 "owner": "PRBonn",
                 "repo": "OverlapNet",
-                "stars": 735,
+                "stars": 734,
                 "topics": [
                   "3d-lidar",
                   "lidar",
@@ -1211,7 +1211,7 @@
                 "open_issues": 13,
                 "owner": "robot-pesg",
                 "repo": "BotanicGarden",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1528,7 +1528,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 632,
+                "stars": 633,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1565,7 +1565,7 @@
                 "open_issues": 8,
                 "owner": "gisbi-kim",
                 "repo": "lt-mapper",
-                "stars": 551,
+                "stars": 552,
                 "topics": [
                   "change-detection",
                   "lidar",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:27:23.451Z",
+    "last_updated": "2026-10-16T19:02:36.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
