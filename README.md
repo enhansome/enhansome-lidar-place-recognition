@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,420 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,873 | 🐛 105 | 📅 2026-09-02
 
 </div>
 
@@ -71,11 +71,11 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`RAL`** Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10629042) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sparolab/solid) ⭐ 210 | 🐛 0 | 🌐 Python | 📅 2026-08-11
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10629042) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sparolab/solid) ⭐ 210 | 🐛 0 | 🌐 Python | 📅 2026-10-20
 
   * **`Learning`** **`TRO`** Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2309.08086-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.08086) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/nubot-nudt/LCR-Net) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2024-12-05
+    [![arXiv](https://img.shields.io/badge/arXiv-2309.08086-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.08086) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/nubot-nudt/LCR-Net) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2024-12-05
 
   * **`Learning`** **`Arxiv`** OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition
 
@@ -101,7 +101,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** STD: A Stable Triangle Descriptor for 3D place recognition 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2209.12435-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.12435) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/STD) ⭐ 746 | 🐛 34 | 🌐 C++ | 📅 2023-05-06
+    [![arXiv](https://img.shields.io/badge/arXiv-2209.12435-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.12435) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/STD) ⭐ 747 | 🐛 34 | 🌐 C++ | 📅 2023-05-06
 
   * **`Learning`** **`ICCV`** BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images 🔥
 
@@ -123,7 +123,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`TRO`** Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2109.13494-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2109.13494) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext_tro) ⭐ 346 | 🐛 3 | 🌐 MATLAB | 📅 2025-05-03
+    [![arXiv](https://img.shields.io/badge/arXiv-2109.13494-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2109.13494) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext_tro) ⭐ 347 | 🐛 3 | 🌐 MATLAB | 📅 2025-05-03
 
   * **`Learning`** **`RAL/IROS`** OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition 🔥
 
@@ -169,7 +169,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** Robust Place Recognition using an Imaging Lidar 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition) ⭐ 432 | 🐛 6 | 🌐 C++ | 📅 2024-08-05
+    [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition) ⭐ 433 | 🐛 6 | 🌐 C++ | 📅 2024-08-05
 
   * **`Learning`** **`WACV`** MinkLoc3D: Point Cloud Based Large-Scale Place Recognition 🔥
 
@@ -203,7 +203,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2003.05656-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2003.05656) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/wh200720041/iscloam) ⭐ 603 | 🐛 16 | 🌐 C++ | 📅 2024-03-24
+    [![arXiv](https://img.shields.io/badge/arXiv-2003.05656-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2003.05656) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/wh200720041/iscloam) ⭐ 604 | 🐛 16 | 🌐 C++ | 📅 2024-03-24
 
   * **`Learning`** **`IROS`** Semantic Graph Based Place Recognition for 3D Point Clouds 🔥
 
@@ -279,7 +279,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Single/Multi`** **`ITSC`** **`Livox-Horizon`** NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping 🚙
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2309.00962-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.00962) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/junzhang2016/NTU4DRadLM) ⭐ 191 | 🐛 16 | 📅 2024-03-22
+    [![arXiv](https://img.shields.io/badge/arXiv-2309.00962-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.00962) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/junzhang2016/NTU4DRadLM) ⭐ 192 | 🐛 16 | 📅 2024-03-22
 
   * **`Multi`** **`IROS-workshop`** **`Mid-70`** ConPR: Ongoing Construction Site Dataset for Place Recognition 🧔
 
@@ -323,7 +323,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Single`** **`ICRA`** **`OS1-128`** Robust Place Recognition using an Imaging Lidar 🧔
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition) ⭐ 432 | 🐛 6 | 🌐 C++ | 📅 2024-08-05
+    [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition) ⭐ 433 | 🐛 6 | 🌐 C++ | 📅 2024-08-05
 
 * 2020
 
@@ -381,7 +381,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`SLAM Framework`** **`ICEIC`** SC-LiDAR-SLAM: A Front-end Agnostic Versatile LiDAR SLAM System 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2201.06423-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2201.06423) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-A-LOAM) ⭐ 634 | 🐛 20 | 🌐 C++ | 📅 2023-01-30 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LeGO-LOAM) ⭐ 76 | 🐛 2 | 🌐 C++ | 📅 2023-12-04 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LIO-SAM) ⭐ 853 | 🐛 23 | 🌐 C++ | 📅 2023-04-27 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/FAST_LIO_SLAM) ⭐ 823 | 🐛 18 | 🌐 C++ | 📅 2022-12-28
+    [![arXiv](https://img.shields.io/badge/arXiv-2201.06423-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2201.06423) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-A-LOAM) ⭐ 634 | 🐛 20 | 🌐 C++ | 📅 2023-01-30 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LeGO-LOAM) ⭐ 76 | 🐛 2 | 🌐 C++ | 📅 2023-12-04 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/SC-LIO-SAM) ⭐ 853 | 🐛 23 | 🌐 C++ | 📅 2023-04-27 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/FAST_LIO_SLAM) ⭐ 824 | 🐛 18 | 🌐 C++ | 📅 2022-12-28
 
   * **`Mapping Framework`** **`ICRA`** LT-mapper: A Modular Framework for LiDAR-based Lifelong Mapping 🔥
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
