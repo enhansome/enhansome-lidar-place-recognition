@@ -431,12 +431,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[RAL/IROS 2022]  OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition",
+                "description": "[RAL & ESI Highly Cited 🏆]  OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition",
                 "homepage": null,
                 "id": 458176111,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2024-07-29T09:12:59Z",
+                "last_commit": "2026-10-21T05:58:02Z",
                 "open_issues": 3,
                 "owner": "haomo-ai",
                 "repo": "OverlapTransformer",
@@ -703,7 +703,7 @@
                 "open_issues": 6,
                 "owner": "TixiaoShan",
                 "repo": "imaging_lidar_place_recognition",
-                "stars": 433,
+                "stars": 432,
                 "topics": [
                   "imaging-lidar",
                   "lidar-odometry",
@@ -1379,7 +1379,7 @@
                 "open_issues": 6,
                 "owner": "TixiaoShan",
                 "repo": "imaging_lidar_place_recognition",
-                "stars": 433,
+                "stars": 432,
                 "topics": [
                   "imaging-lidar",
                   "lidar-odometry",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:38:28.356Z",
+    "last_updated": "2026-10-21T19:40:35.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",

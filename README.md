@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,873 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,308 | 🐛 105 | 📅 2026-09-02
 
 </div>
 
@@ -40,7 +40,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 <summary>Previous</summary>
 <div markdown="1">
 
-* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,357 | 🐛 1 | 📅 2026-09-30!
+* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,359 | 🐛 1 | 📅 2026-09-30!
 
 * **`24.03.20`**  First pull request!
 
@@ -127,7 +127,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Learning`** **`RAL/IROS`** OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2203.03397-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.03397) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haomo-ai/OverlapTransformer) ⭐ 303 | 🐛 3 | 🌐 Python | 📅 2024-07-29
+    [![arXiv](https://img.shields.io/badge/arXiv-2203.03397-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.03397) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haomo-ai/OverlapTransformer) ⭐ 303 | 🐛 3 | 🌐 Python | 📅 2026-10-21
 
   * **`Learning`** **`TRO`** LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM 🔥
 
@@ -169,7 +169,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** Robust Place Recognition using an Imaging Lidar 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition) ⭐ 433 | 🐛 6 | 🌐 C++ | 📅 2024-08-05
+    [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition) ⭐ 432 | 🐛 6 | 🌐 C++ | 📅 2024-08-05
 
   * **`Learning`** **`WACV`** MinkLoc3D: Point Cloud Based Large-Scale Place Recognition 🔥
 
@@ -323,7 +323,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Single`** **`ICRA`** **`OS1-128`** Robust Place Recognition using an Imaging Lidar 🧔
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition) ⭐ 433 | 🐛 6 | 🌐 C++ | 📅 2024-08-05
+    [![arXiv](https://img.shields.io/badge/arXiv-2103.02111-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.02111) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/TixiaoShan/imaging_lidar_place_recognition) ⭐ 432 | 🐛 6 | 🌐 C++ | 📅 2024-08-05
 
 * 2020
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
