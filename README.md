@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,308 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,980 | 🐛 105 | 📅 2026-09-02
 
 </div>
 
@@ -55,7 +55,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** Effectively Detecting Loop Closures using Point Cloud Density Maps 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) ⭐ 449 | 🐛 2 | 🌐 C++ | 📅 2026-10-07
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) ⭐ 450 | 🐛 2 | 🌐 C++ | 📅 2026-10-07
 
   * **`Learning`** **`TRO`** BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles 🔥
 
@@ -127,7 +127,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Learning`** **`RAL/IROS`** OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2203.03397-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.03397) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haomo-ai/OverlapTransformer) ⭐ 303 | 🐛 3 | 🌐 Python | 📅 2026-10-21
+    [![arXiv](https://img.shields.io/badge/arXiv-2203.03397-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.03397) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haomo-ai/OverlapTransformer) ⭐ 301 | 🐛 3 | 🌐 Python | 📅 2026-10-21
 
   * **`Learning`** **`TRO`** LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM 🔥
 
@@ -367,7 +367,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`SLAM Framework`** **`ICRA`** Real-Time Simultaneous Localization and Mapping with LiDAR intensity 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2301.09257-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2301.09257)[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) ⭐ 156 | 🐛 0 | 🌐 C++ | 📅 2024-03-07
+    [![arXiv](https://img.shields.io/badge/arXiv-2301.09257-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2301.09257)[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) ⭐ 157 | 🐛 0 | 🌐 C++ | 📅 2024-03-07
 
   * **`SLAM Framework`** **`IEEE/ASME Transactions on Mechatronics`** DLC-SLAM: A Robust LiDAR-SLAM System With Learning-Based Denoising and Loop Closure 🔥
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
