@@ -24,7 +24,7 @@
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "MapClosures",
-                "stars": 450,
+                "stars": 451,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:33:49.546Z",
+    "last_updated": "2026-10-24T18:22:45.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
