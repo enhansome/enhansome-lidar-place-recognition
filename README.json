@@ -1528,7 +1528,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 634,
+                "stars": 635,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:22:45.575Z",
+    "last_updated": "2026-10-25T18:33:43.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
