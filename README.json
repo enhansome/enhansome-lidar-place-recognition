@@ -45,7 +45,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -291,7 +291,7 @@
                 "open_issues": 34,
                 "owner": "hku-mars",
                 "repo": "STD",
-                "stars": 747,
+                "stars": 746,
                 "topics": [
                   "lidar-slam",
                   "loop-closure",
@@ -318,7 +318,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -339,7 +339,7 @@
                 "open_issues": 1,
                 "owner": "lus6-Jenny",
                 "repo": "RING",
-                "stars": 229,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -440,7 +440,7 @@
                 "open_issues": 3,
                 "owner": "haomo-ai",
                 "repo": "OverlapTransformer",
-                "stars": 301,
+                "stars": 302,
                 "topics": [
                   "global-localization",
                   "lidar-place-recognition",
@@ -1448,7 +1448,7 @@
                 "open_issues": 0,
                 "owner": "MISTLab",
                 "repo": "Intensity_based_LiDAR_SLAM",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "intensity-based-registration",
                   "lidar-slam"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:33:43.785Z",
+    "last_updated": "2026-10-26T20:45:46.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
