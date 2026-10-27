@@ -45,7 +45,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 392,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -291,7 +291,7 @@
                 "open_issues": 34,
                 "owner": "hku-mars",
                 "repo": "STD",
-                "stars": 746,
+                "stars": 747,
                 "topics": [
                   "lidar-slam",
                   "loop-closure",
@@ -318,7 +318,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 392,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:45:46.081Z",
+    "last_updated": "2026-10-27T20:15:10.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
