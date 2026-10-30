@@ -467,7 +467,7 @@
                 "open_issues": 3,
                 "owner": "robot-learning-freiburg",
                 "repo": "LCDNet",
-                "stars": 218,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1211,7 +1211,7 @@
                 "open_issues": 13,
                 "owner": "robot-pesg",
                 "repo": "BotanicGarden",
-                "stars": 311,
+                "stars": 312,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:40:07.245Z",
+    "last_updated": "2026-10-30T20:10:32.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
