@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,421 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,953 | 🐛 105 | 📅 2026-09-02
 
 </div>
 
@@ -40,7 +40,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 <summary>Previous</summary>
 <div markdown="1">
 
-* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,362 | 🐛 1 | 📅 2026-10-26!
+* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,362 | 🐛 2 | 📅 2026-10-26!
 
 * **`24.03.20`**  First pull request!
 
@@ -127,11 +127,11 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Learning`** **`RAL/IROS`** OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2203.03397-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.03397) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haomo-ai/OverlapTransformer) ⭐ 302 | 🐛 3 | 🌐 Python | 📅 2026-10-21
+    [![arXiv](https://img.shields.io/badge/arXiv-2203.03397-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2203.03397) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/haomo-ai/OverlapTransformer) ⭐ 303 | 🐛 3 | 🌐 Python | 📅 2026-10-21
 
   * **`Learning`** **`TRO`** LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2103.05056-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.05056) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/robot-learning-freiburg/LCDNet) ⭐ 219 | 🐛 3 | 🌐 Python | 📅 2025-01-09
+    [![arXiv](https://img.shields.io/badge/arXiv-2103.05056-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.05056) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/robot-learning-freiburg/LCDNet) ⭐ 220 | 🐛 3 | 🌐 Python | 📅 2025-01-09
 
   * **`Learning`** **`IROS`** D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR SLAM in Complicated Circumstances with Noisy Point Clouds 🔥
 
@@ -173,7 +173,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Learning`** **`WACV`** MinkLoc3D: Point Cloud Based Large-Scale Place Recognition 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2011.04530-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2011.04530) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jac99/MinkLoc3D) ⭐ 150 | 🐛 0 | 🌐 Python | 📅 2024-01-31
+    [![arXiv](https://img.shields.io/badge/arXiv-2011.04530-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2011.04530) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jac99/MinkLoc3D) ⭐ 151 | 🐛 0 | 🌐 Python | 📅 2024-01-31
 
   * **`Learning`** **`ICRA`** Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling 🔥
 
@@ -227,11 +227,11 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Learning`** **`CVPR`** PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-1804.03492-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1804.03492) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mikacuy/pointnetvlad) ⭐ 403 | 🐛 8 | 🌐 Python | 📅 2020-01-19
+    [![arXiv](https://img.shields.io/badge/arXiv-1804.03492-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/1804.03492) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mikacuy/pointnetvlad) ⭐ 404 | 🐛 8 | 🌐 Python | 📅 2020-01-19
 
   * **`Handcraft`** **`IROS`** Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/8593953) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext) ⭐ 112 | 🐛 4 | 🌐 C++ | 📅 2021-09-24
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/8593953) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext) ⭐ 113 | 🐛 4 | 🌐 C++ | 📅 2021-09-24
 
 * 2017
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

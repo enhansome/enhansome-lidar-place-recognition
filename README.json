@@ -440,7 +440,7 @@
                 "open_issues": 3,
                 "owner": "haomo-ai",
                 "repo": "OverlapTransformer",
-                "stars": 302,
+                "stars": 303,
                 "topics": [
                   "global-localization",
                   "lidar-place-recognition",
@@ -467,7 +467,7 @@
                 "open_issues": 3,
                 "owner": "robot-learning-freiburg",
                 "repo": "LCDNet",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -732,7 +732,7 @@
                 "open_issues": 0,
                 "owner": "jac99",
                 "repo": "MinkLoc3D",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "3d-convolutional-network",
                   "3d-vision",
@@ -1067,7 +1067,7 @@
                 "open_issues": 8,
                 "owner": "mikacuy",
                 "repo": "pointnetvlad",
-                "stars": 403,
+                "stars": 404,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1093,7 +1093,7 @@
                 "open_issues": 4,
                 "owner": "gisbi-kim",
                 "repo": "scancontext",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:10:32.364Z",
+    "last_updated": "2026-10-31T19:34:00.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
