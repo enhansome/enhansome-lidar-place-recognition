@@ -1565,7 +1565,7 @@
                 "open_issues": 8,
                 "owner": "gisbi-kim",
                 "repo": "lt-mapper",
-                "stars": 553,
+                "stars": 554,
                 "topics": [
                   "change-detection",
                   "lidar",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:34:00.133Z",
+    "last_updated": "2026-11-01T19:54:47.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
@@ -1617,7 +1617,7 @@
       "open_issues": 1,
       "owner": "hogyun2",
       "repo": "awesome-lidar-place-recognition",
-      "stars": 224,
+      "stars": 225,
       "topics": [
         "awesome",
         "awesome-list",
