@@ -66,7 +66,7 @@
                 "open_issues": 14,
                 "owner": "hku-mars",
                 "repo": "btc_descriptor",
-                "stars": 374,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -291,7 +291,7 @@
                 "open_issues": 34,
                 "owner": "hku-mars",
                 "repo": "STD",
-                "stars": 747,
+                "stars": 748,
                 "topics": [
                   "lidar-slam",
                   "loop-closure",
@@ -907,7 +907,7 @@
                 "open_issues": 8,
                 "owner": "PRBonn",
                 "repo": "OverlapNet",
-                "stars": 734,
+                "stars": 735,
                 "topics": [
                   "3d-lidar",
                   "lidar",
@@ -1093,7 +1093,7 @@
                 "open_issues": 4,
                 "owner": "gisbi-kim",
                 "repo": "scancontext",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:54:47.886Z",
+    "last_updated": "2026-11-02T23:13:31.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
@@ -1617,7 +1617,7 @@
       "open_issues": 1,
       "owner": "hogyun2",
       "repo": "awesome-lidar-place-recognition",
-      "stars": 225,
+      "stars": 227,
       "topics": [
         "awesome",
         "awesome-list",
