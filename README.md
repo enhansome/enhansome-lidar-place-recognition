@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,277 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,922 | 🐛 103 | 📅 2026-09-02
 
 </div>
 
@@ -40,7 +40,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 <summary>Previous</summary>
 <div markdown="1">
 
-* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,364 | 🐛 2 | 📅 2026-10-26!
+* **`24.05.21`** Merged [awesome-lidar repository](https://github.com/szenergy/awesome-lidar) ⭐ 1,367 | 🐛 2 | 📅 2026-10-26!
 
 * **`24.03.20`**  First pull request!
 
@@ -63,7 +63,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`TRO`** BTC: A Binary and Triangle Combined Descriptor for 3D Place Recognition 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10388464) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor) ⭐ 375 | 🐛 14 | 🌐 C++ | 📅 2024-10-07
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10388464) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/btc_descriptor) ⭐ 376 | 🐛 14 | 🌐 C++ | 📅 2024-10-07
 
   * **`Handcraft`** **`IROS`** NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM 🔥
 
@@ -101,7 +101,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** STD: A Stable Triangle Descriptor for 3D place recognition 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2209.12435-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.12435) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/STD) ⭐ 748 | 🐛 34 | 🌐 C++ | 📅 2023-05-06
+    [![arXiv](https://img.shields.io/badge/arXiv-2209.12435-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.12435) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/hku-mars/STD) ⭐ 750 | 🐛 34 | 🌐 C++ | 📅 2023-05-06
 
   * **`Learning`** **`ICCV`** BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images 🔥
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
