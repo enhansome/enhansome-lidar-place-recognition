@@ -45,7 +45,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -291,7 +291,7 @@
                 "open_issues": 34,
                 "owner": "hku-mars",
                 "repo": "STD",
-                "stars": 750,
+                "stars": 751,
                 "topics": [
                   "lidar-slam",
                   "loop-closure",
@@ -318,7 +318,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -934,7 +934,7 @@
                 "open_issues": 16,
                 "owner": "wh200720041",
                 "repo": "iscloam",
-                "stars": 604,
+                "stars": 605,
                 "topics": [
                   "aloam",
                   "autonomous-driving",
@@ -1093,7 +1093,7 @@
                 "open_issues": 4,
                 "owner": "gisbi-kim",
                 "repo": "scancontext",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1239,7 +1239,7 @@
                 "open_issues": 6,
                 "owner": "MIT-SPARK",
                 "repo": "Kimera-Multi-Data",
-                "stars": 199,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1260,7 +1260,7 @@
                 "open_issues": 16,
                 "owner": "junzhang2016",
                 "repo": "NTU4DRadLM",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1528,7 +1528,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 635,
+                "stars": 636,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:35:29.701Z",
+    "last_updated": "2026-11-06T21:05:45.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
