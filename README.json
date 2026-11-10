@@ -99,22 +99,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "SOTA LiDAR Place Recognition (@ IEEE RA-L'24 w/ ICRA'25)",
+                "description": "SOTA LiDAR & 4D Radar Place Recognition + Online Loop Closing / Multi-session SLAM for ROS 1/2 (IEEE RA-L'24 w/ ICRA'25)",
                 "homepage": "https://sparolab.github.io/research/solid/",
                 "id": 786759614,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T22:50:17Z",
+                "last_commit": "2026-11-10T09:09:58Z",
                 "open_issues": 0,
                 "owner": "sparolab",
                 "repo": "SOLiD",
                 "stars": 212,
                 "topics": [
+                  "4d-radar",
+                  "global-descriptor",
+                  "gtsam",
+                  "humanoid",
+                  "legged-robots",
                   "lidar",
+                  "lidar-slam",
                   "localization",
+                  "loop-closure",
+                  "mapping",
+                  "multi-agent",
+                  "multi-robot",
+                  "multi-session",
                   "place-recognition",
                   "point-cloud",
-                  "slam"
+                  "radar",
+                  "ros",
+                  "ros2",
+                  "slam",
+                  "solid"
                 ]
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1528,7 +1543,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 636,
+                "stars": 637,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1605,7 +1620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:51:55.254Z",
+    "last_updated": "2026-11-10T21:26:45.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
