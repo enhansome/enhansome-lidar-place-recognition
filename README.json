@@ -354,7 +354,7 @@
                 "open_issues": 1,
                 "owner": "lus6-Jenny",
                 "repo": "RING",
-                "stars": 230,
+                "stars": 231,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1620,7 +1620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:18:21.695Z",
+    "last_updated": "2026-11-12T21:55:40.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
