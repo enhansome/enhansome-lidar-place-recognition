@@ -1226,7 +1226,7 @@
                 "open_issues": 13,
                 "owner": "robot-pesg",
                 "repo": "BotanicGarden",
-                "stars": 313,
+                "stars": 314,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1345,7 +1345,7 @@
                 "open_issues": 15,
                 "owner": "RobustFieldAutonomyLab",
                 "repo": "DiSCo-SLAM",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1543,7 +1543,7 @@
                 "open_issues": 20,
                 "owner": "gisbi-kim",
                 "repo": "SC-A-LOAM",
-                "stars": 637,
+                "stars": 636,
                 "topics": [
                   "gps",
                   "gtsam",
@@ -1608,7 +1608,7 @@
                 "open_issues": 15,
                 "owner": "RobustFieldAutonomyLab",
                 "repo": "DiSCo-SLAM",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1620,7 +1620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:40:13.381Z",
+    "last_updated": "2026-11-14T20:08:11.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
