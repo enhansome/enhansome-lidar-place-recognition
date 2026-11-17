@@ -306,7 +306,7 @@
                 "open_issues": 34,
                 "owner": "hku-mars",
                 "repo": "STD",
-                "stars": 753,
+                "stars": 754,
                 "topics": [
                   "lidar-slam",
                   "loop-closure",
@@ -1620,7 +1620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:51:29.167Z",
+    "last_updated": "2026-11-17T23:11:19.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
