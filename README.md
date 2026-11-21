@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,997 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,490 | 🐛 103 | 📅 2026-09-02
 
 </div>
 
@@ -71,7 +71,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`RAL`** Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10629042) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sparolab/solid) ⭐ 217 | 🐛 0 | 🌐 C++ | 📅 2026-11-10
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10629042) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sparolab/solid) ⭐ 218 | 🐛 0 | 🌐 C++ | 📅 2026-11-10
 
   * **`Learning`** **`TRO`** Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM
 
@@ -257,7 +257,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Multi`** **`RAL`** **`VLP-16`** **`Livox-Avia`** BotanicGarden: A High-Quality Dataset for Robot Navigation in Unstructured Natural Environments 🤖
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2306.14137-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2306.14137) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/robot-pesg/BotanicGarden) ⭐ 314 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14
+    [![arXiv](https://img.shields.io/badge/arXiv-2306.14137-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2306.14137) [![ProjectPage](https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg)](https://github.com/robot-pesg/BotanicGarden) ⭐ 315 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14
 
   * **`Single/Multi`** **`CVPR`** **`OS1-128`** **`OS1-64`** **`Mid-70`** MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception 🤖 🧔
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
