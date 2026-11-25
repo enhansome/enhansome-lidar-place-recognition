@@ -20,8 +20,8 @@
                 "id": 764533935,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-07T07:45:38Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-24T16:17:52Z",
+                "open_issues": 1,
                 "owner": "PRBonn",
                 "repo": "MapClosures",
                 "stars": 455,
@@ -482,7 +482,7 @@
                 "open_issues": 3,
                 "owner": "robot-learning-freiburg",
                 "repo": "LCDNet",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1108,7 +1108,7 @@
                 "open_issues": 4,
                 "owner": "gisbi-kim",
                 "repo": "scancontext",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1620,7 +1620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:36:17.042Z",
+    "last_updated": "2026-11-25T00:08:52.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",

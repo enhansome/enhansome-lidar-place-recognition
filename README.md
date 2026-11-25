@@ -4,7 +4,7 @@
     <h1>Awesome LiDAR Place Recognition </h1>
 <div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,724 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,332 | 🐛 103 | 📅 2026-09-02
 
 </div>
 
@@ -55,7 +55,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`ICRA`** Effectively Detecting Loop Closures using Point Cloud Density Maps 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) ⭐ 455 | 🐛 2 | 🌐 C++ | 📅 2026-10-07
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/gupta2024icra.pdf) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRBonn/MapClosures) ⭐ 455 | 🐛 1 | 🌐 C++ | 📅 2026-11-24
 
   * **`Learning`** **`TRO`** BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles 🔥
 
@@ -131,7 +131,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Learning`** **`TRO`** LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM 🔥
 
-    [![arXiv](https://img.shields.io/badge/arXiv-2103.05056-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.05056) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/robot-learning-freiburg/LCDNet) ⭐ 220 | 🐛 3 | 🌐 Python | 📅 2025-01-09
+    [![arXiv](https://img.shields.io/badge/arXiv-2103.05056-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2103.05056) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/robot-learning-freiburg/LCDNet) ⭐ 221 | 🐛 3 | 🌐 Python | 📅 2025-01-09
 
   * **`Learning`** **`IROS`** D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR SLAM in Complicated Circumstances with Noisy Point Clouds 🔥
 
@@ -231,7 +231,7 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
   * **`Handcraft`** **`IROS`** Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map 🔥
 
-    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/8593953) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext) ⭐ 117 | 🐛 4 | 🌐 C++ | 📅 2021-09-24
+    [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/8593953) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/gisbi-kim/scancontext) ⭐ 118 | 🐛 4 | 🌐 C++ | 📅 2021-09-24
 
 * 2017
 
@@ -397,4 +397,4 @@ Finally, **various algorithms** that play an important role in Place Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
