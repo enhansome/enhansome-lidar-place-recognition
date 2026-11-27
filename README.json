@@ -45,7 +45,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 397,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -333,7 +333,7 @@
                 "open_issues": 4,
                 "owner": "zjuluolun",
                 "repo": "BEVPlace2",
-                "stars": 397,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1108,7 +1108,7 @@
                 "open_issues": 4,
                 "owner": "gisbi-kim",
                 "repo": "scancontext",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:57.226Z"
@@ -1580,7 +1580,7 @@
                 "open_issues": 8,
                 "owner": "gisbi-kim",
                 "repo": "lt-mapper",
-                "stars": 557,
+                "stars": 558,
                 "topics": [
                   "change-detection",
                   "lidar",
@@ -1620,7 +1620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:03:36.235Z",
+    "last_updated": "2026-11-27T23:45:28.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR",
